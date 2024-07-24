@@ -1,1 +1,1 @@
-this is the first text file of the 'three folder'
+this is the first text file
